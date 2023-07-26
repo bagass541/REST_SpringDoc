@@ -20,7 +20,7 @@ public class Order {
 	private String description;
 	private Status status;
 	
-	Order(String description, Status Status)
+	Order(String description, Status status)
 	{
 		this.description = description;
 		this.status = status;
